@@ -33,6 +33,9 @@ import beaconfire from "./company/beaconfire.png"
 import stonybrook from "./company/stonybrook.png"
 import brookhaven from "./company/brookhaven.png"
 import aws from "./tech/aws.png"
+import searchJob from "./search_Job.png"
+
+
 export {
   logo,
   backend,
@@ -66,5 +69,6 @@ export {
   beaconfire,
   stonybrook,
   brookhaven,
-  aws
+  aws,
+  searchJob
 };

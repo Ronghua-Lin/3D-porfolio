@@ -20,6 +20,7 @@ import {
   stonybrook,
   brookhaven,
   aws,
+  searchJob
 } from "../assets";
 
 export const navLinks = [
@@ -169,6 +170,27 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Search Job Application",
+    description:
+      "mobile-base platform that allows users to search IT jobs and apply positions on the associated websites.",
+    tags: [
+      {
+        name: "react-native",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "expo",
+        color: "green-text-gradient",
+      },
+      {
+        name: "expo-router",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: searchJob,
+    source_code_link: "https://github.com/Ronghua-Lin/Search_Jobs_App",
+  },
   {
     name: "Fitness Application",
     description:

@@ -34,7 +34,7 @@ import stonybrook from "./company/stonybrook.png"
 import brookhaven from "./company/brookhaven.png"
 import aws from "./tech/aws.png"
 import searchJob from "./search_Job.png"
-
+import Employee_management from "./Employee_management.png"
 
 export {
   logo,
@@ -70,5 +70,6 @@ export {
   stonybrook,
   brookhaven,
   aws,
-  searchJob
+  searchJob,
+  Employee_management
 };

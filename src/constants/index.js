@@ -20,7 +20,8 @@ import {
   stonybrook,
   brookhaven,
   aws,
-  searchJob
+  searchJob,
+  Employee_management
 } from "../assets";
 
 export const navLinks = [
@@ -170,6 +171,33 @@ const testimonials = [
 ];
 
 const projects = [
+
+  {
+    name: "Employee Management",
+    description:
+      "A web application that allow manager to manage his employees and assign notes for completing tasks",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "redux",
+        color: "green-text-gradient",
+      },
+      {
+        name: "RTK query",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "node",
+        color: "yellow-text-gradient",
+      },
+    ],
+    image: Employee_management,
+    source_code_link: "https://github.com/Ronghua-Lin/Employee_management",
+  },
+
   {
     name: "Search Job Application",
     description:

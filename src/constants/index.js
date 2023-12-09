@@ -175,7 +175,7 @@ const projects = [
   {
     name: "AI shirts",
     description:
-      "An AI-powered website where users can customize and select their favorite shirt with AI assisstant",
+      "An AI-powered website where users can customize and select their favorite shirt with AI assistant",
     tags: [
       {
         name: "react",
@@ -194,15 +194,14 @@ const projects = [
         color: "yellow-text-gradient",
       },
     ],
-    image: AI_shirt,
-    source_code_link: "https://github.com/Ronghua-Lin/AI_Clothing",
-    
+    image: Employee_management,
+    source_code_link: "https://github.com/Ronghua-Lin/Employee_management",
   },
 
   {
     name: "Employee Management",
     description:
-      "A web application that allow manager to manage his employees and assign notes for completing tasks",
+      "A web application that allows manager to manage his employees and assign notes for completing tasks",
     tags: [
       {
         name: "react",

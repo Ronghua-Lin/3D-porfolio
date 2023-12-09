@@ -171,6 +171,31 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "AI shirts",
+    description:
+      "An AI-powered website where users can customize and select their favorite shirt with AI assisstant",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "node",
+        color: "green-text-gradient",
+      },
+      {
+        name: "openAI API",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "vite",
+        color: "yellow-text-gradient",
+      },
+    ],
+    image: Employee_management,
+    source_code_link: "https://github.com/Ronghua-Lin/Employee_management",
+  },
 
   {
     name: "Employee Management",

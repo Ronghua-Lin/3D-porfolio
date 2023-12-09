@@ -35,7 +35,7 @@ import brookhaven from "./company/brookhaven.png"
 import aws from "./tech/aws.png"
 import searchJob from "./search_Job.png"
 import Employee_management from "./Employee_management.png"
-
+import AI_shirt from "./AI_shirt.PNG"
 export {
   logo,
   backend,
@@ -71,5 +71,6 @@ export {
   brookhaven,
   aws,
   searchJob,
-  Employee_management
+  Employee_management,
+  AI_shirt
 };

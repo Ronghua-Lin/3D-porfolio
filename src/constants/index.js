@@ -21,7 +21,8 @@ import {
   brookhaven,
   aws,
   searchJob,
-  Employee_management
+  Employee_management,
+  AI_shirt
 } from "../assets";
 
 export const navLinks = [
@@ -219,8 +220,8 @@ const projects = [
         color: "yellow-text-gradient",
       },
     ],
-    image: Employee_management,
-    source_code_link: "https://github.com/Ronghua-Lin/Employee_management",
+    image: AI_shirt,
+    source_code_link: "https://github.com/Ronghua-Lin/AI_Clothing",
   },
 
   {

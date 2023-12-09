@@ -194,8 +194,8 @@ const projects = [
         color: "yellow-text-gradient",
       },
     ],
-    image: Employee_management,
-    source_code_link: "https://github.com/Ronghua-Lin/Employee_management",
+    image: AI_shirt,
+    source_code_link: "https://github.com/Ronghua-Lin/AI_Clothing",
   },
 
   {

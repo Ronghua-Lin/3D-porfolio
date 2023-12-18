@@ -36,6 +36,7 @@ import aws from "./tech/aws.png"
 import searchJob from "./search_Job.png"
 import Employee_management from "./Employee_management.png"
 import AI_shirt from "./AI_shirt.png"
+import next_admin from "./next_admin.png"
 export {
   logo,
   backend,
@@ -72,5 +73,6 @@ export {
   aws,
   searchJob,
   Employee_management,
-  AI_shirt
+  AI_shirt,
+  next_admin
 };

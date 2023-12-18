@@ -22,7 +22,8 @@ import {
   aws,
   searchJob,
   Employee_management,
-  AI_shirt
+  AI_shirt,
+  next_admin
 } from "../assets";
 
 export const navLinks = [
@@ -172,6 +173,31 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Next JS Admin ",
+    description:
+      "An administrator system to manage user, products, and etc. Using Next JS 14 as the framework and Next-Auth for the authentication and authorization with middleware.",
+    tags: [
+      {
+        name: "Next JS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Serverless",
+        color: "green-text-gradient",
+      },
+      {
+        name: "MongoDB",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Typescript",
+        color: "yellow-text-gradient",
+      },
+    ],
+    image: next_admin,
+    source_code_link: "https://github.com/Ronghua-Lin/nextJS_Admin",
+  },
   {
     name: "AI shirts",
     description:
